@@ -1,0 +1,30 @@
+.galeria {
+    display: flexbox;
+    justify-content: space-around;
+}
+
+.uno {
+    direction: ;
+    width: 300px;
+
+}
+.dos {
+    width: 300px;
+
+}
+.tres {
+    width: 300px;
+
+}
+.cuatro {
+    width: 300px;
+
+}
+.cinco {
+    width: 300px;
+
+}
+.seis {
+    width: 300px;
+
+}
